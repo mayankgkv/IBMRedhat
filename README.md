@@ -1,6 +1,7 @@
 
 # Badge earn<br>
-<img src ="https://github.com/mayankgkv/IBMRedhat/assets/29403568/340ad35a-a06a-4e3c-9249-37b975db6b44>
+![Image]![journey-to-cloud-envisioning-your-solution 2 (1)](https://github.com/mayankgkv/IBMRedhat/assets/29403568/349957f6-9ec9-424a-ab90-8587a90147f5)
+
 
 
 # Pre-requisites
